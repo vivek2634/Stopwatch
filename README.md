@@ -1,5 +1,5 @@
 # Stopwatch_CN
-Link: https://amanpatel23.github.io/Stopwatch_CN/
+Link: https://github.com/vivek2634/Stopwatch
 
 ***
 ### Functionality
